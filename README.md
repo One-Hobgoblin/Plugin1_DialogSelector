@@ -1,3 +1,2 @@
 # Plugin1_DialogSelector
-Antes de começar a mexer com plugin, eu estou tentando entender o que o cara do vídeo está fazendo porque ele conseguiu gravar a porra da tela na pior qualidade possível e eu não consigo ler nada! Tive que pegar o tutorial de outro cara para aprender a mexer no git hub.
-Esse nem era o meu objetivo, eu só queria fazer um plugin pra aprender a mexer, mas o cara parece ser fissurado com o github.
+Eu estava irritado e a mensagem aqui estava equivocada
