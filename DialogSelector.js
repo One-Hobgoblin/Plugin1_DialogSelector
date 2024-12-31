@@ -99,10 +99,8 @@
 var tutorial_DialogSelectorParams = PluginManager.parameters(
   "TutorialPlugin1_DialogSelector"
 );
-var enableDialogSystem =
-  tutorial_DialogSelectorParams["Enable Dialog System"] == "true";
-var textVariableId = parseInt(
-  tutorial_DialogSelectorParams["Text Game Variable"]
+var enableDialogSystem = tutorial_DialogSelectorParams["Enable Dialog System"] == "true";
+var textVariableId = parseInt(tutorial_DialogSelectorParams["Text Game Variable"]
 );
 var mapData = JSON.parse(tutorial_DialogSelectorParams["Map Data"]);
 var defaultDialog = tutorial_DialogSelectorParams["Default Dialog"];
