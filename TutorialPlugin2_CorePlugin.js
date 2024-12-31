@@ -213,8 +213,7 @@ function detectInstalledPlugins(){
 };
 
 function getInstalledPlugins(){
-	return tutorialCore.coreSettings.plugins.filter(plugin => plugin && plugin.installed)
-		.reduce((names, plugin) => {
+	return tutorialCore.coreSettings.plugins.filter(plugin => plugin && plugin.installed).reduce((names, plugin) => {
 			names.push(plugin.name);
 			return names;
 		}, []);
